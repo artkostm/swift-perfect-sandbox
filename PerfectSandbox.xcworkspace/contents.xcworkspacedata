@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:PerfectSandbox/PerfectSandbox.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:libs/Perfect-release-1.0.1/PerfectServer/PerfectServer.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:libs/Perfect-release-1.0.1/PerfectLib/PerfectLib.xcodeproj">
+   </FileRef>
+</Workspace>

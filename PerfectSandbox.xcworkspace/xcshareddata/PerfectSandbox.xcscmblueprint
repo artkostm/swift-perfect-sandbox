@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "19C52DB40016312502D2711073B9A426C6DD179F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "E2306DAE0C98D148736A05084B6FAB44F03B4909" : 0,
+    "19C52DB40016312502D2711073B9A426C6DD179F" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "9D464866-F9FE-4B6C-9702-0FE3CA05E2AF",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "E2306DAE0C98D148736A05084B6FAB44F03B4909" : "swift-perfect-sandbox\/libs\/Perfect\/",
+    "19C52DB40016312502D2711073B9A426C6DD179F" : "swift-perfect-sandbox\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "PerfectSandbox",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "PerfectSandbox.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/artkostm\/swift-perfect-sandbox.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "19C52DB40016312502D2711073B9A426C6DD179F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/PerfectlySoft\/Perfect.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E2306DAE0C98D148736A05084B6FAB44F03B4909"
+    }
+  ]
+}
